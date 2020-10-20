@@ -6,6 +6,10 @@ public class RestApi {
 		System.out.println("Pushing into git");
 		System.out.println("champ in git");
 		
+		System.out.println("Pushing into git1");
+		System.out.println("Pushing into git2");
+		System.out.println("Pushing into git3");
+		
 
 	}
 
